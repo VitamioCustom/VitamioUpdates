@@ -19,7 +19,7 @@ SE VOCÊ NÃO CONCORDA COM NENHUMA DAS INFORMAÇÕES CONTIDAS AQUI, VOCÊ NÃO E
 
 
 ==================================================
-============== TRANSLATED BY GOOGLE ==============
+TRANSLATED BY GOOGLE
 ==================================================
 
 
