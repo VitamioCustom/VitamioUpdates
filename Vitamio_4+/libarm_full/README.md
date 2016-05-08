@@ -1,0 +1,14 @@
+FFmpeg 3.0.1
+OpenSSL 1.0.2g
+Vitamio 4.2.2+
+
+<hr>
+**Configuration**
+<hr>
+
+VITAMIO_MIPS = 40
+VITAMIO_X86 = 50
+VITAMIO_ARMV6 = 60
+VITAMIO_ARMV6_VFP = 61
+VITAMIO_ARMV7_VFPV3 = 70
+VITAMIO_ARMV7_NEON = 71
