@@ -1,4 +1,4 @@
-FFmpeg 3.0.1
+FFmpeg 2.0
 OpenSSL 1.0.2g
 Vitamio 4.2.2+
 
