@@ -6,15 +6,22 @@ Vitamio 5.0.0/5+
 **Configuration**
 <hr>
 
-ARCH                      arm (cortex-a8)
+ARCH                      x86 (i686)
 big-endian                no
-runtime cpu detection     no
-ARMv5TE enabled           yes
-ARMv6 enabled             yes
-ARMv6T2 enabled           yes
-VFP enabled               yes
-NEON enabled              yes
-THUMB enabled             yes
+runtime cpu detection     yes
+yasm                      yes
+MMX enabled               yes
+MMXEXT enabled            yes
+3DNow! enabled            no
+3DNow! extended enabled   no
+SSE enabled               yes
+SSSE3 enabled             yes
+AVX enabled               yes
+FMA4 enabled              yes
+i686 features enabled     yes
+CMOV is fast              yes
+EBX available             no
+EBP available             yes
 debug symbols             no
 strip symbols             yes
 optimize for size         no
