@@ -1,4 +1,6 @@
 
+> (Dont work, because vitamio player(vplayer.so) dont work together with any of my compilation of ffmpeg/openssl)
+
 UPDATES FOR EXTERNAL VITAMIO SOFTWARE
 --------------------------------------------------
 
